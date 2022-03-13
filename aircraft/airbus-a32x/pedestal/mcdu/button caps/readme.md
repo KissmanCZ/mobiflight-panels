@@ -34,7 +34,7 @@ in progress...
 - [x] Write short how to print with small ammount of supports.
 - [ ] Write short how to engrave text and symbols with laser.
 - [x] Upload preconfigured Lychee scene files (with integrated supports).
-- [x] Upload preconfigured STIL files (with integrated supports).
+- [x] Upload preconfigured STL files (with integrated supports).
 - [ ] Upload pictures of finished buttons.
 - [ ] Upload Fusion 360 source files.
 
