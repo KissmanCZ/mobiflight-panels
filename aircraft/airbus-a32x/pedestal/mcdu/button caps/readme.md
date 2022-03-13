@@ -12,8 +12,12 @@ Panel source file: https://github.com/MobiFlight/mobiflight-panels/blob/main/air
 * Masking tape
 * CO2 or LED laser cutter / engraver
 
-# How to print: 
-in progress...
+# How to slice: 
+You can use your favorite slicer but my favorite is Lychee. You can use preconfigured scene files for Lychee or you can use STL exports. Both file formats are with integrated supports and this style of supports is in my humble opinion best for stability during prints and for easy postprocesing.
+
+Test file with all types of buttons:
+
+![image](https://user-images.githubusercontent.com/13331823/158075893-45817ad3-ad3c-4c84-82fc-6b682734c2b5.png)
 
 # How to colour:
 in progress...
@@ -27,8 +31,10 @@ in progress...
 - [ ] Create design for side annunciators.
 - [ ] Create design for top annunciators.
 - [x] Test print.
-- [ ] Write short how to print with small ammount of supports.
+- [x] Write short how to print with small ammount of supports.
 - [ ] Write short how to engrave text and symbols with laser.
+- [x] Upload preconfigured Lychee scene files (with integrated supports).
+- [x] Upload preconfigured STIL files (with integrated supports).
 - [ ] Upload pictures of finished buttons.
 - [ ] Upload Fusion 360 source files.
 
