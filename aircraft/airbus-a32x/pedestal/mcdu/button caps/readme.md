@@ -1,5 +1,5 @@
 # Button caps design for resin printers
-This folder contains ready to print STL files for resin printers. Buttons caps are compatible with 3+3+3mm panel layout made from acrylic. Fusion 360 source files will be added later.
+This folder contains ready to print STL files for resin printers. Buttons caps are compatible with 3+3+3mm panel layout made from acrylic with 8mm standoffs. Fusion 360 source files will be added later.
 
 Panel source file: https://github.com/MobiFlight/mobiflight-panels/blob/main/aircraft/airbus-a32x/pedestal/mcdu/A320_MCDU-laser.svg
 
@@ -13,7 +13,7 @@ Panel source file: https://github.com/MobiFlight/mobiflight-panels/blob/main/air
 * CO2 or LED laser cutter / engraver
 
 # How to slice: 
-You can use your favorite slicer but my favorite is Lychee. You can use preconfigured scene files for Lychee or you can use STL exports. Both file formats are with integrated supports and this style of supports is in my humble opinion best for stability during prints and for easy postprocesing.
+You can use your favorite slicer but my favorite is Lychee. You can use preconfigured scene files for Lychee. Scenes are with integrated supports and this style of supports is in my humble opinion best for stability during prints and for easy postprocesing.
 
 Test file with all types of buttons:
 
@@ -34,7 +34,6 @@ in progress...
 - [x] Write short how to print with small ammount of supports.
 - [ ] Write short how to engrave text and symbols with laser.
 - [x] Upload preconfigured Lychee scene files (with integrated supports).
-- [x] Upload preconfigured STL files (with integrated supports).
 - [ ] Upload pictures of finished buttons.
 - [ ] Upload Fusion 360 source files.
 
